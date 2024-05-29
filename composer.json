@@ -1,0 +1,15 @@
+{
+    "name": "oop/web3014",
+    "autoload": {
+        "psr-4": {
+            "Oop\\Web3014\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LÊ NGOC MINH",
+            "email": "minhle1309@gmail.com"
+        }
+    ],
+    "require": {}
+}
